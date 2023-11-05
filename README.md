@@ -80,7 +80,7 @@ This is an integrated project of Original Author [@125K](https://github.com/125K
 ```
 MIT License
 
-Copyright (c) 2020 Shahriar Shafin
+Copyright (c) 2023 DarkShubh
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
