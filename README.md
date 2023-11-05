@@ -64,8 +64,6 @@
 6. Upload the code into your board.
 7. You are done!
 
-## Credits
-This is an integrated project of Original Author [@125K](https://github.com/125K)
 
 
 ## Disclaimer
